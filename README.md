@@ -4,7 +4,7 @@ Autonomous Arduino Robot with IR Remote
 
 Video:
 -------
-[![Video](https://img.youtube.com/watch?v=gjPGo9NRAPk/0.jpg)](https://www.youtube.com/watch?v=gjPGo9NRAPk)
+[![Video](https://img.youtube.com/vi/gjPGo9NRAPk/0.jpg)](https://www.youtube.com/watch?v=gjPGo9NRAPk)
 
 An Arduino Uno based, 3D printed robot taken from David Hrbaty's design. I used an Ultrasonic Sensor, 2x HiTec 311 servo motors (need to be modified for continous rotation), a mini servo, Arduino prototype shield with mini breadboard, IR receiver, a buzzer, IR remote, and 9v battery with buckle to power jack.
 modified for continous rotation), a mini servo, Arduino prototype shield with mini breadboard, IR receiver, a buzzer, IR remote, and 9v battery with buckle to power jack.
